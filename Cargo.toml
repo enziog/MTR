@@ -1,0 +1,9 @@
+[package]
+name = "FindMTR"
+version = "0.1.0"
+authors = ["enziog"]
+
+[dependencies]
+calamine = "^0.14.1"
+glob = "^0.2.11"
+
