@@ -31,12 +31,12 @@
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="52" />
       </file>
-      <file name="D:/Rust/product_information/src/main.rs" timestamp="1536722250068">
-        <mark key="'" line="25" column="62" />
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="23" />
-        <mark key="." line="14" column="23" />
-        <mark key="^" line="14" column="36" />
+      <file name="D:/Rust/product_information/src/main.rs" timestamp="1536722924385">
+        <mark key="'" line="34" column="62" />
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -45,10 +45,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text>workbook</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>workbook</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
