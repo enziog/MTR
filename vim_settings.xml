@@ -31,12 +31,9 @@
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="52" />
       </file>
-      <file name="D:/Rust/product_information/src/main.rs" timestamp="1536725839606">
-        <mark key="'" line="34" column="62" />
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="35" />
-        <mark key="^" line="16" column="35" />
-        <mark key="." line="16" column="35" />
+      <file name="D:/Rust/product_information/src/main.rs" timestamp="1536726540423">
+        <mark key="'" line="39" column="62" />
+        <mark key="^" line="14" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -45,10 +42,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>fn read_row_of_job_no()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>fn read_row_of_job_no()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
