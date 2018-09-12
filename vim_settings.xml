@@ -31,12 +31,12 @@
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="52" />
       </file>
-      <file name="D:/Rust/product_information/src/main.rs" timestamp="1536722924385">
+      <file name="D:/Rust/product_information/src/main.rs" timestamp="1536725839606">
         <mark key="'" line="34" column="62" />
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="9" column="18" />
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="35" />
+        <mark key="^" line="16" column="35" />
+        <mark key="." line="16" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -45,10 +45,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>workbook</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>workbook</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
@@ -57,28 +57,28 @@
         <text>let cb_submit_date = format!(&quot;{:?}&quot;, row[43]);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcm93X3RleHQgPT0gam9iX25vewo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">Zm4gcnVuKCl7CiAgICBwcmludGxuISgiZm4gcnVuKCkuLi4iKTsKICAgIGxldCBwYXRoID0gIlM6XFwyMC5RdWFsaXR5XFwyMSBQcm9qZWN0IEluZm9ybWF0aW9uIM/uxL/Qxc+ixr3MqFxcxM3RucrU0enSu7TOus+48cLKzbO8xrHtLnhsc3giOwogICAgbGV0IG11dCB3YjpYbHN4PF8+ID0gb3Blbl93b3JrYm9vayhwYXRoKS51bndyYXAoKS5leHBlY3QoIrTyv6rNs7zGse3Kp7Dco6EiKTsKICAgIGlmIGxldCBTb21lKE9rKHIpKSA9IHdiLndvcmtzaGVldF9yYW5nZSgiMjAxOMTqz+7Ev8r9vt0iKXsKICAgICAgICBwcmludGxuISgiMjAxOM/uxL/K/b7dIik7CiAgICAgICAgZm9yIHJvdyBpbiByLnJvd3MoKXsKICAgICAgICAgICAgbGV0IHJvd190ZXh0ID0gZm9ybWF0ISgiezo/fSIsIHJvd1sxXSk7CiAgICAgICAgICAgIGlmIHJvd190ZXh0ID09IGpvYl9ub3sKICAgICAgICAgICAgICAgIGxldCBjYl9zdWJtaXRfZGF0ZSA9IGZvcm1hdCEoIns6P30iLCByb3dbOV0pOwogICAgICAgICAgICAgICAgbGV0IHByZXNzdXJlX3Rlc3RfZGF0ZSA9IGZvcm1hdCEoIns6P30iLCByb3dbNDJdKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBwcmludGxuISgiezo/fSIsIHJvdyk7CiAgICAgICAgfQogICAgfQp9</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">LyoK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgJnNoZWV0ID09ICIyMDE4xOrP7sS/yv2+3SIgewogICAgICAgICAgICBwcmludGxuISgic2hlZXQgbmFtZToge30iLCBzaGVldCk7</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcm93X3RleHQgPT0gam9iX25vewo=</text>
+      </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBtYXRjaCB3YnsKICAgICAgICBOb25lID0+IHsvKmNvZGUgZm9yIHJlLWlucHV0IGpvYl9ubyovfSwKICAgICAgICB3YiAgID0+IHtwcmludGxuISgix+vK5MjruaTX98Huo7oiKX0sCiAgICB9Ciov</text>
+        <text encoding="base64">Zm4gcnVuKCl7CiAgICBwcmludGxuISgiZm4gcnVuKCkuLi4iKTsKICAgIGxldCBwYXRoID0gIlM6XFwyMC5RdWFsaXR5XFwyMSBQcm9qZWN0IEluZm9ybWF0aW9uIM/uxL/Qxc+ixr3MqFxcxM3RucrU0enSu7TOus+48cLKzbO8xrHtLnhsc3giOwogICAgbGV0IG11dCB3YjpYbHN4PF8+ID0gb3Blbl93b3JrYm9vayhwYXRoKS51bndyYXAoKS5leHBlY3QoIrTyv6rNs7zGse3Kp7Dco6EiKTsKICAgIGlmIGxldCBTb21lKE9rKHIpKSA9IHdiLndvcmtzaGVldF9yYW5nZSgiMjAxOMTqz+7Ev8r9vt0iKXsKICAgICAgICBwcmludGxuISgiMjAxOM/uxL/K/b7dIik7CiAgICAgICAgZm9yIHJvdyBpbiByLnJvd3MoKXsKICAgICAgICAgICAgbGV0IHJvd190ZXh0ID0gZm9ybWF0ISgiezo/fSIsIHJvd1sxXSk7CiAgICAgICAgICAgIGlmIHJvd190ZXh0ID09IGpvYl9ub3sKICAgICAgICAgICAgICAgIGxldCBjYl9zdWJtaXRfZGF0ZSA9IGZvcm1hdCEoIns6P30iLCByb3dbOV0pOwogICAgICAgICAgICAgICAgbGV0IHByZXNzdXJlX3Rlc3RfZGF0ZSA9IGZvcm1hdCEoIns6P30iLCByb3dbNDJdKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBwcmludGxuISgiezo/fSIsIHJvdyk7CiAgICAgICAgfQogICAgfQp9</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -119,6 +119,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
