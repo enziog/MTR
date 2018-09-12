@@ -3,12 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1536711229169">
+      <file name="/Dummy.txt" timestamp="1536711285408">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Rust/MTR/src/main.rs" timestamp="1536711481944">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="41" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="D:/Python/MTR.py" timestamp="1536711475625">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="52" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="4">
+        <text>\\10.145.56.26\mxsc$\Warehouse\05.质保书扫描文件</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>\\10.145.56.26\mxsc$\Warehouse\05.质保书扫描文件</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -22,6 +41,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
