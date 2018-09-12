@@ -12,6 +12,7 @@
       <file name="/Dummy.txt" timestamp="1536716620068">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/calamine-0.14.5/src/xlsx.rs" timestamp="1536735198475" />
       <file name="D:/Rust/MTR/src/main.rs" timestamp="1536713370101">
         <mark key="[" line="105" column="12" />
         <mark key="]" line="105" column="15" />
@@ -31,12 +32,12 @@
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="52" />
       </file>
-      <file name="D:/Rust/product_information/src/main.rs" timestamp="1536734326517">
+      <file name="D:/Rust/product_information/src/main.rs" timestamp="1536735279582">
         <mark key="'" line="49" column="62" />
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="17" />
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+        <mark key="^" line="4" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -45,10 +46,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>row_text</text>
+        <text>calamine::Xlsx:</text>
       </register>
       <register name="-" type="4">
-        <text>row_text</text>
+        <text>calamine::Xlsx:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
