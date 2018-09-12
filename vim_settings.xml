@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Rust/product_information/src/main(1).rs" timestamp="1536722000883">
+        <mark key="[" line="2" column="44" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1536716620068">
         <mark key="[" line="0" column="0" />
       </file>
@@ -25,44 +31,63 @@
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="52" />
       </file>
-      <file name="D:/Rust/product_information/src/main.rs" timestamp="1536719577433">
-        <mark key="'" line="11" column="5" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-        <mark key="^" line="12" column="3" />
+      <file name="D:/Rust/product_information/src/main.rs" timestamp="1536722250068">
+        <mark key="'" line="25" column="62" />
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="36" />
       </file>
     </filemarks>
     <jumps>
       <jump line="11" column="5" filename="D:/Rust/product_information/src/main.rs" />
+      <jump line="26" column="62" filename="D:/Rust/product_information/src/main.rs" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>\\10.145.56.26\mxsc$\Warehouse\05.质保书扫描文件</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIG1hdGNoIGpvYl9uby5hc19zdHIoKXsKICAgICAgICBqb2Jfbm8gPT4gLAogICAgICAgIA==</text>
+      <register name="-" type="4">
+        <text>?</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxtYXRjaFw+</text>
+      </register>
+      <register name="0" type="4">
+        <text>let cb_submit_date = format!(&quot;{:?}&quot;, row[43]);</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
-      </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc2VsZWN0aW9uID0gJnNlbGVjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcm93X3RleHQgPT0gam9iX25vewo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
+        <text encoding="base64">Zm4gcnVuKCl7CiAgICBwcmludGxuISgiZm4gcnVuKCkuLi4iKTsKICAgIGxldCBwYXRoID0gIlM6XFwyMC5RdWFsaXR5XFwyMSBQcm9qZWN0IEluZm9ybWF0aW9uIM/uxL/Qxc+ixr3MqFxcxM3RucrU0enSu7TOus+48cLKzbO8xrHtLnhsc3giOwogICAgbGV0IG11dCB3YjpYbHN4PF8+ID0gb3Blbl93b3JrYm9vayhwYXRoKS51bndyYXAoKS5leHBlY3QoIrTyv6rNs7zGse3Kp7Dco6EiKTsKICAgIGlmIGxldCBTb21lKE9rKHIpKSA9IHdiLndvcmtzaGVldF9yYW5nZSgiMjAxOMTqz+7Ev8r9vt0iKXsKICAgICAgICBwcmludGxuISgiMjAxOM/uxL/K/b7dIik7CiAgICAgICAgZm9yIHJvdyBpbiByLnJvd3MoKXsKICAgICAgICAgICAgbGV0IHJvd190ZXh0ID0gZm9ybWF0ISgiezo/fSIsIHJvd1sxXSk7CiAgICAgICAgICAgIGlmIHJvd190ZXh0ID09IGpvYl9ub3sKICAgICAgICAgICAgICAgIGxldCBjYl9zdWJtaXRfZGF0ZSA9IGZvcm1hdCEoIns6P30iLCByb3dbOV0pOwogICAgICAgICAgICAgICAgbGV0IHByZXNzdXJlX3Rlc3RfZGF0ZSA9IGZvcm1hdCEoIns6P30iLCByb3dbNDJdKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBwcmludGxuISgiezo/fSIsIHJvdyk7CiAgICAgICAgfQogICAgfQp9</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyoK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBtYXRjaCB3YnsKICAgICAgICBOb25lID0+IHsvKmNvZGUgZm9yIHJlLWlucHV0IGpvYl9ubyovfSwKICAgICAgICB3YiAgID0+IHtwcmludGxuISgix+vK5MjruaTX98Huo7oiKX0sCiAgICB9Ciov</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>/</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxtYXRjaFw+</text>
       </register>
     </registers>
     <search>
@@ -91,6 +116,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
