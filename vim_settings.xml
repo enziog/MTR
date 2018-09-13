@@ -32,12 +32,12 @@
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="52" />
       </file>
-      <file name="D:/Rust/product_information/src/main.rs" timestamp="1536809466584">
-        <mark key="'" line="44" column="62" />
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-        <mark key="^" line="20" column="57" />
+      <file name="D:/Rust/product_information/src/main.rs" timestamp="1536814875969">
+        <mark key="'" line="1" column="62" />
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -46,11 +46,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;
-                    }</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>else</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
@@ -59,36 +58,38 @@
         <text encoding="base64">RGF0YVR5cGU6OkVycm9yKHJlZiBlKSA9PiBwcmludGxuISgie30iLCBzKSw=</text>
       </register>
       <register name="1" type="4">
-        <text>;
-                    }</text>
+        <text>env::args()
+        .nth(2)
+        .expect(&quot;Expecting a sheet name as second a</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAubnRoKDEpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAuZXhwZWN0KCJQbGVhc2UgcHJvdmlkZSBhbiBleGNlbCBmaWxlIHRvIGNvbnZlcnQiKTsK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ZXh0ZXJuIGNyYXRlIGNhbGFtaW5lOwp1c2Ugc3RkOjppbzsKdXNlIGNhbGFtaW5lOjp7UmVhZGVyLCBYbHN4LCBvcGVuX3dvcmtib29rLCBEYXRhVHlwZX07CgpmbiBzZWFyY2gocGF0OiAmc3RyKSB7CiAgICBsZXQgcGF0aCA9ICJTOlxcMjAuUXVhbGl0eVxcMjEgUHJvamVjdCBJbmZvcm1hdGlvbiDP7sS/0MXPosa9zKhcXL+iuaTOxLz+0MXPosyo1csueGxzeCI7CiAgICBsZXQgbXV0IHdiOiBYbHN4PF8+ID0gb3Blbl93b3JrYm9vayhwYXRoKS5leHBlY3QoIkV4Y2VszsS8/qOoeGxzeLjxyr2jqbTyv6rKp7DcIik7CiAgICBsZXQgc2hlZXRzID0gd2Iuc2hlZXRfbmFtZXMoKS50b19vd25lZCgpOwogICAgZm9yIHNoZWV0IGluIHNoZWV0cyB7CiAgICAgICAgaWYgc2hlZXQuZmluZCgiz+7Ev8r9vt0iKSAhPSBOb25lIHsgLy+y6dXSc2hlZXQKICAgICAgICAgICAgcHJpbnRsbiEoIml0ZXJfc2hlZXQ6IHt9Iiwgc2hlZXQpOwogICAgICAgICAgICBpZiBsZXQgU29tZShPayhmKSkgPSB3Yi53b3Jrc2hlZXRfcmFuZ2UoJnNoZWV0KXsKICAgICAgICAgICAgICAgIGZvciByIGluIGYucm93cygpewogICAgICAgICAgICAgICAgICAgIGZvciAoaSwgYykgaW4gci5pdGVyKCkuZW51bWVyYXRlKCkgewogICAgICAgICAgICAgICAgICAgICAgICBtYXRjaCAqY3sKICAgICAgICAgICAgICAgICAgICAgICAgICAgIERhdGFUeXBlOjpFbXB0eSA9PiBPaygoKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBEYXRhVHlwZTo6U3RyaW5nKHJlZiBzKSA9PiB3cml0ZSEoInt9IiwgcyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBEYXRhVHlwZTo6RmxvYXQocmVmIGYpID0+IHdyaXRlISgie30iLCBmKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIERhdGFUeXBlOjpJbnQocmVmIGkpID0+IHdyaXRlISgie30iLCBpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIERhdGFUeXBlOjpFcnJvcihyZWYgZSkgPT4gd3JpdGUhKCJ7Oj99IiwgZSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBEYXRhVHlwZTo6Qm9vbChyZWYgYikgPT4gd3JpdGUhKCJ7fSIsIGIpLAogICAgICAgICAgICAgICAgICAgICAgICB9PzsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0gZWxzZXsKICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgfQogICAgfQp9CgpmbiBydW4oKSB7CiAgICBsZXQgbXV0IGpvYl9ubz0gU3RyaW5nOjpuZXcoKTsKICAgIGlvOjpzdGRpbigpLnJlYWRfbGluZSgmbXV0IGpvYl9ubyk7CiAgICBzZWFyY2goJmpvYl9ubyk7CiAgICBwcmludGxuISgisLS72LO1zcuz9qOsyuTI67mk1/fB7rzM0Piy6dXSIik7Cn0KZm4gbWFpbigpIHsKICAgIHJ1bigpOwp9Cgo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>;
+                    }</text>
+      </register>
+      <register name="6" type="4">
         <text>{
                         continue</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">bGV0IGpvYl9ubyA9IGZvcm1hdCEoIns6P30iLCByb3dbMV0pOy8vtqjOuwogICAgICAgICAgICAgICAgICAgIGlmIGpvYl9uby5maW5kKCZwYXQpICE9IE5vbmUgeyAvL7aozrujrMXQts/M9bz+CiAgICAgICAgICAgICAgICAgICAgICAgIC8vILLp1dK1xNDFz6IKICAgICAgICAgICAgICAgICAgICAgICAgbGV0IGNiX3N1Ym1pdF9kYXRlID0gZm9ybWF0ISgiezo/fSIsIHJvd1s5XSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGxldCBwcmVzc3VyZV90ZXN0X2RhdGUgPSBmb3JtYXQhKCJ7Oj99Iiwgcm93WzQyXSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50bG4hKCJ7fSIsIGpvYl9ubyk7CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50bG4hKCJ7fSIsIGNiX3N1Ym1pdF9kYXRlKTsKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbiEoInt9IiwgcHJlc3N1cmVfdGVzdF9kYXRlKTs=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXQgPSAiMTgtMDAxNiI7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCKwtLvYs7XNy7P2o6zK5MjruaTX98HuvMzQ+LLp1dIiKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCKwtLvYs7XNy7P2o6zK5MjruaTX98HuvMzQ+LLp1dIiKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBwYXQgPSAiMTgtMDAxNiI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -127,6 +128,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
