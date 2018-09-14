@@ -36,12 +36,12 @@
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="52" />
       </file>
-      <file name="D:/Rust/product_information/src/main.rs" timestamp="1536885214546">
+      <file name="D:/Rust/product_information/src/main.rs" timestamp="1536886603111">
         <mark key="'" line="0" column="62" />
-        <mark key="[" line="24" column="30" />
-        <mark key="]" line="25" column="48" />
-        <mark key="." line="25" column="48" />
-        <mark key="^" line="25" column="48" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="17" column="55" />
       </file>
     </filemarks>
     <jumps>
@@ -49,50 +49,50 @@
       <jump line="26" column="62" filename="D:/Rust/product_information/src/main.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>let mut dest = String::new();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CmZuIHNlYXJjaChwYXQ6ICZzdHIpIHsKICAgIGxldCBwYXRoID0gIlM6XFwyMC5RdWFsaXR5XFwyMSBQcm9qZWN0IEluZm9ybWF0aW9uIM/uxL/Qxc+ixr3MqFxcv6K5pM7EvP7Qxc+izKjVyy54bHN4IjsKICAgIGxldCBtdXQgd2I6IFhsc3g8Xz4gPSBvcGVuX3dvcmtib29rKHBhdGgpLmV4cGVjdCgiRXhjZWzOxLz+o6h4bHN4uPHKvaOptPK/qsqnsNwiKTsKICAgIGxldCBzaGVldHMgPSB3Yi5zaGVldF9uYW1lcygpLnRvX293bmVkKCk7CiAgICBmb3Igc2hlZXQgaW4gc2hlZXRzIHsKICAgICAgICBpZiBzaGVldC5maW5kKCLP7sS/yv2+3SIpICE9IE5vbmUgeyAvL7Lp1dJzaGVldAogICAgICAgICAgICBwcmludGxuISgiaXRlcl9zaGVldDoge30iLCBzaGVldCk7CiAgICAgICAgICAgIGlmIGxldCBTb21lKE9rKGYpKSA9IHdiLndvcmtzaGVldF9yYW5nZSgmc2hlZXQpewogICAgICAgICAgICAgICAgZm9yIHJvdyBpbiBmLnJvd3MoKXsKICAgICAgICAgICAgICAgICAgICBsZXQgam9iX25vID0gZm9ybWF0ISgiezo/fSIsIHJvd1sxXSk7Ly+2qM67CiAgICAgICAgICAgICAgICAgICAgaWYgam9iX25vLmZpbmQoJnBhdCkgIT0gTm9uZSB7IC8vtqjOu6OsxdC2z8z1vP4KICAgICAgICAgICAgICAgICAgICAgICAgLy8gsunV0rXE0MXPogogICAgICAgICAgICAgICAgICAgICAgICBsZXQgY2Jfc3VibWl0X2RhdGUgPSBmb3JtYXQhKCJ7Oj99Iiwgcm93WzldKTsKICAgICAgICAgICAgICAgICAgICAgICAgbGV0IHByZXNzdXJlX3Rlc3RfZGF0ZSA9IGZvcm1hdCEoIns6P30iLCByb3dbNDJdKTsKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbiEoInt9Iiwgam9iX25vKTsKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbiEoInt9IiwgY2Jfc3VibWl0X2RhdGUpOwogICAgICAgICAgICAgICAgICAgICAgICBwcmludGxuISgie30iLCBwcmVzc3VyZV90ZXN0X2RhdGUpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICB9IGVsc2V7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBicmVhazsKICAgICAgICB9IGVsc2V7CiAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgIH0KICAgIH0KfQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxldCBwYXRoID0gIlM6XFwyMC5RdWFsaXR5XFwyMSBQcm9qZWN0IEluZm9ybWF0aW9uIM/uxL/Qxc+ixr3MqFxcv6K5pM7EvP7Qxc+izKjVyy54bHN4IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9wcmludCEoInt9XHQiLCBpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50bG4hKCJ7fSIsIGMpOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHByaW50ISgie31cdCIsIGkpOwogICAgICAgICAgICAgICAgICAgICAgICBwcmludGxuISgie30iLCBjKTs=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9wcmludCEoInt9XHQiLCBpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50bG4hKCJ7fSIsIGMpOw==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">IHByaW50ISgie31cdCIsIGkpOwogICAgICAgICAgICAgICAgICAgICAgICBwcmludGxuISgie30iLCBjKTs=</text>
+      </register>
+      <register name="5" type="4">
         <text>{
                         continue</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbiEoInt9IiwgcHJlc3N1cmVfdGVzdF9kYXRlKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgam9iX25vID0gZm9ybWF0ISgiezo/fSIsIHJvd1sxXSk7Ly+2qM67CiAgICAgICAgICAgICAgICAgICAgaWYgam9iX25vLmZpbmQoJnBhdCkgIT0gTm9uZSB7IC8vtqjOu6OsxdC2z8z1vP4KICAgICAgICAgICAgICAgICAgICAgICAgLy8gsunV0rXE0MXPogogICAgICAgICAgICAgICAgICAgICAgICBsZXQgY2Jfc3VibWl0X2RhdGUgPSBmb3JtYXQhKCJ7Oj99Iiwgcm93WzldKTsKICAgICAgICAgICAgICAgICAgICAgICAgbGV0IHByZXNzdXJlX3Rlc3RfZGF0ZSA9IGZvcm1hdCEoIns6P30iLCByb3dbNDJdKTs=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>env::args()
         .nth(2)
         .expect(&quot;Expecting a sheet name as second a</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAubnRoKDEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -134,6 +134,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
