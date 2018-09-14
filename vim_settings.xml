@@ -15,6 +15,8 @@
       <file name="D:/Rust/product_information/src/old_main.rs" timestamp="1536823646273">
         <mark key="[" line="42" column="1" />
       </file>
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/calamine-0.14.5/src/datatype.rs" timestamp="1536884178154" />
+      <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-msvc/lib/rustlib/src/rust/src/libcore/fmt/mod.rs" timestamp="1536884774482" />
       <file name="D:/Rust/MTR/src/main.rs" timestamp="1536713370101">
         <mark key="[" line="105" column="12" />
         <mark key="]" line="105" column="15" />
@@ -34,12 +36,12 @@
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="52" />
       </file>
-      <file name="D:/Rust/product_information/src/main.rs" timestamp="1536883620833">
+      <file name="D:/Rust/product_information/src/main.rs" timestamp="1536885214546">
         <mark key="'" line="0" column="62" />
-        <mark key="[" line="15" column="38" />
-        <mark key="]" line="17" column="72" />
-        <mark key="." line="17" column="72" />
-        <mark key="^" line="17" column="72" />
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="25" column="48" />
+        <mark key="." line="25" column="48" />
+        <mark key="^" line="25" column="48" />
       </file>
     </filemarks>
     <jumps>
